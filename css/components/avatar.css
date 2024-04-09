@@ -1,0 +1,13 @@
+.avatar {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.end {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: left;
+	justify-content: space-between;
+	flex-basis: 250px;
+}
